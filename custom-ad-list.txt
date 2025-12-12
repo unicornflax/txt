@@ -1,0 +1,6 @@
+mdp-appconf-eu.heytapdl.com
+edge-mqtt.facebook.com
+config.edge.skype.com
+web.facebook.com
+graph.facebook.com
+graph.instagram.com
