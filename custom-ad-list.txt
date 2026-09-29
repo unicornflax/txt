@@ -4,3 +4,4 @@ config.edge.skype.com
 web.facebook.com
 graph.facebook.com
 graph.instagram.com
+google-analytics.com
